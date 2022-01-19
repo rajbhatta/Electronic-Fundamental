@@ -7,7 +7,7 @@
 - Negative charge electrons are bounded to nucelus due to their opposite nature compared to positively charge proton.
 <img src="img/img2.jpeg"/>
 
-- <b> Valence electron </b>: electron in the outermost shell of the atom called the valence shell can become free if we apply to external forces becaused they are under balanced by positively charged protons.
+- <b> Valence electron </b>: electron in the outermost shell of the atom called the valence shell can become free if we apply to external forces because they are not under heavy influence of positively charged protons.
 
 - Normally copper cable is used for transferring electricity because atom that formed copper cable are used to move across the cable.
 
