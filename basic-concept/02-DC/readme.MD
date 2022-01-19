@@ -12,12 +12,13 @@
 - The positive region is up and down because voltage can vary even in DC current.
 - Normally voltage in DC circuit is constant throught the circuit.
 
+# Electron flow in modern circuit #
 <img src="img/img4.png"/>
 
-- Fig: Modern circuit
 
+# Electron flow in conventional circuit #
 <img src="img/img3.png"/>
-1. Conventional Circuit
+
 
 
 
