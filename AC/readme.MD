@@ -11,8 +11,9 @@
 
 - Normally copper cable is used for transferring electricity because atom that formed copper cable are used to move across the cable.
 
-# What is polarity changes in AC current? #
+# What is polarity change in AC current? #
 <img src="img/img1.png"/>
+
 - In AC circuit, the voltage provided by transformer is changing the polarity from positive to negative and vice-versa. For example, voltage from 0 to 8.3ms is positive while voltage from 8.3ms to 16.7ms is negative and so on. This behavior of the commonly called SINE wave.
 
 
