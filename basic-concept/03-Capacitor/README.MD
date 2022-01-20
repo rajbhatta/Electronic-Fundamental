@@ -1,4 +1,4 @@
-# What is capacitor #
+# What is capacitor ? #
 - A capacitor is a device that stores electrical energy in an electric field. It consists of at least two electrical conductors separated by a distance.
 - The space between capacitors may simply be a vacuum, and, in that case, a capacitor is then known as a “vacuum capacitor.” However, the space is usually filled with an insulating material known as a dielectric.
 
@@ -14,5 +14,17 @@ C = Q/V
 
 - where Q is maximum charge that can be stored in a capacitor
 -  V is applied voltage across plate
+- Unit of capacitor is farad (F)
 
 ```
+
+# Different symbols for capactors and it's meaning #
+## 1. Normal capacitor ##
+<img src="img/img4.png"/>
+
+## 1. Electrolytic capacitor ##
+<img src="img/img2.png"/>
+
+
+## 2. Variable air capacitance capacitor ##
+<img src="img/img3.png"/>
