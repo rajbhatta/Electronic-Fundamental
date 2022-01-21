@@ -29,7 +29,7 @@ C = Q/V
 ## 2. Variable air capacitance capacitor ##
 <img src="img/img3.png"/>
 
-# How capacitor charging process work #
+# How capacitor charging process works? #
 - Capacitor performs three tasks in dc circuits i.e. taking charge, holding charge and delivering charge at certain time. When capacitor is connected to dc voltage source, capacitor starts the process of acquiring a charge. This will built up voltage across capacitor. Once capacitor has acquire enough charge, current starts flowing and soon capacitor voltage reaches at value approximately equal to dc source voltage.
 
 - When capacitor has almost full voltage across it, no more current flows though capacitor.
