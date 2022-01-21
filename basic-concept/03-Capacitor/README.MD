@@ -92,3 +92,7 @@ Where Vc = capacitor voltage, Vi = input voltage, t = charging time, R = resista
 <img src="img/img10.png"/>
 
 # How to utilize the capacitor charging feature with microcontroller? #
+
+<img src="img/img11.png"/>
+
+- In the above diagram, the capacitor is fully charged after first half of DC cycle and now capacitor is holding the maximum capacity. This fully charged capacitor now can be applied to mico-controller as shown above.
