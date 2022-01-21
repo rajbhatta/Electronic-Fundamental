@@ -48,7 +48,7 @@ C = Q/V
                           τ = R x C
 ```
 
-# How capacitor is charge ? #
+# How capacitor is charged ? #
 ```js
 Here is the equation for voltage across capacitor at any instant of time during charging.
 
@@ -72,7 +72,7 @@ Where Vc = capacitor voltage, Vi = input voltage, t = charging time, R = resista
 
 <img src="img/img7.png"/>
 
-# How capacitor is discharge ? 
+# How capacitor is discharged ? 
 - There are multiple ways to discharge a charged capacitor. The easiest way is to use LED or resistor in series with capacitor. We need to take extreme care while selecting resistor or led for capacitor to discharge. It is good practice to refer specifications like wattage, value in case of resistor and forward current, voltage in case of LED before use. 
 
 <img src="img/img8.gif"/>
