@@ -90,3 +90,5 @@ Where Vc = capacitor voltage, Vi = input voltage, t = charging time, R = resista
 - During discharging, the capacitor voltage and current decreases quickly at 1RC second and after that there is slow decrease in both quantities. Here is the graph of capacitor discharging voltage and current. Both graphs are exponentially falling in nature. In 5RC seconds, discharging current Id ≈ 0 and discharging voltage Vd ≈ 0.
 
 <img src="img/img10.png"/>
+
+# How to utilize the capacitor charging feature with microcontroller? #
